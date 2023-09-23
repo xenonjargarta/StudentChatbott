@@ -55,6 +55,17 @@
     "name": "Learning, Knowledge, and Human Development "
   },
   {
+    "FIELD1": 98,
+    "courseType": "v2.ondemand",
+    "description": "Welcome to Logistic Regression in R for Public Health Why logistic regression for public health rather than just logistic regression? Well there are some particular considerations for every data set and public health data sets have particular features that need special attention. In a word they are messy. Like the others in the series this is a hands on course giving you plenty of practice with R on real-life messy data with predicting who has diabetes from a set of patient characteristics as the worked example for this course. Additionally the interpretation of the outputs from the regression model can differ depending on the perspective that you take, and public health doesnot just take the perspective of an individual patient but must also consider the population angle. That said much of what is covered in this course is true for logistic regression when applied to any data set so you will be able to apply the principles of this course to logistic regression more broadly too. By the end of this course you will be able to explain when it is valid to use logistic regression and define odds and odds ratios and run simple and multiple logistic regression analyses in R and interpret the output ",
+    "id": "HIWhL1UPEeiYKRJKvk-prg",
+    "slug": "logistic-regression-r-public-health",
+    "instructorIds": "['31616650']",
+    "specializations": "[]",
+    "partnerIds": "['434']",
+    "name": "Logistic Regression in R for Public Health"
+  },
+  {
     "FIELD1": 5,
     "courseType": "v2.ondemand",
     "description": "Mountains 101­­ is a broad and integrated overview of the mountain world. This 12-lesson course covers an interdisciplinary field of study focusing on the physical, biological, and human dimensions of mountain places in Alberta, Canada, and around the world. Specifically, we'll study the geological origins of mountains, how they’re built-up and worn-down over time; we’ll learn about their importance for biodiversity and water cycles, globally and locally; we’ll explore their cultural significance to societies around the globe, and how that relationship has evolved over time; and we’ll learn how mountains are used, how they’re protected, and how today they’re experiencing rapid change in a warming climate. \n\nAt the end of each lesson, Mountains 101 will also provide learners with some smart tricks -- Tech Tips -- to safely enjoy time in the high alpine environment: from how to pick the best footwear for hiking to making smart decisions in avalanche terrain. \n\nWe’ll be delivering your online lessons from valley bottoms to mountaintops, from museums and labs, to alpine huts and other spectacular alpine sites, and we’ll do so with the help of a whole host of experts.\n \nWe invite you to join us for this online adventure! The mountains are calling...",
@@ -1076,17 +1087,6 @@
     "specializations": "[]",
     "partnerIds": "['443']",
     "name": "On Premises Installation and Fundamentals with Google Cloud's Apigee API Platform"
-  },
-  {
-    "FIELD1": 98,
-    "courseType": "v2.ondemand",
-    "description": "Welcome to Logistic Regression in R for Public Health Why logistic regression for public health rather than just logistic regression? Well there are some particular considerations for every data set and public health data sets have particular features that need special attention. In a word they are messy. Like the others in the series this is a hands on course giving you plenty of practice with R on real-life messy data with predicting who has diabetes from a set of patient characteristics as the worked example for this course. Additionally the interpretation of the outputs from the regression model can differ depending on the perspective that you take, and public health doesnot just take the perspective of an individual patient but must also consider the population angle. That said much of what is covered in this course is true for logistic regression when applied to any data set so you will be able to apply the principles of this course to logistic regression more broadly too. By the end of this course you will be able to explain when it is valid to use logistic regression and define odds and odds ratios and run simple and multiple logistic regression analyses in R and interpret the output ",
-    "id": "HIWhL1UPEeiYKRJKvk-prg",
-    "slug": "logistic-regression-r-public-health",
-    "instructorIds": "['31616650']",
-    "specializations": "[]",
-    "partnerIds": "['434']",
-    "name": "Logistic Regression in R for Public Health"
   },
   {
     "FIELD1": 99,
